@@ -1,4 +1,3 @@
-https://huggingface.co/ https://www.python.org/ https://pytorch.org/ 
 
 I - Abstract
 Hệ thống LAIMs (Large-scale AI-generated Multimodal Detection System) phát hiện nội dung đa phương tiện (văn bản + hình ảnh) do AI tạo ra sử dụng các mô hình học sâu hiện đại:
